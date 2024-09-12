@@ -14,4 +14,4 @@ Proyecto de cCase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 ![DART](https://img.shields.io/badge/Dart-0175C2?style-for-the-badge&logo=dart&logoColor=white)
 
 ## AUTOR
-Elaborado por: Diego Oliver [Diego210436](https://github.com/Diego210436)
+Elaborado por: Diego Oliver Basilio [Diego210436](https://github.com/Diego210436)
