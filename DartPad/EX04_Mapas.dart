@@ -51,4 +51,17 @@ void main() {
   //dado que la solucion ya esta obsoleta lo que queda es crear una nueva variable con el sujeto y destructurar las imagenes para acceder a ellas
   
   final tmp_sprites =pokemon['sprites'] as Map<int,String>;
+  
+  print("""
+  Accediendo a las propiedades del pokemon usando los brackets/corchetes []
+  :
+  -------------------------------------------------------------------------
+  Nombre = ${pokemon['Name']}
+  HP=${pokemon['HP']}
+  Vivo=${pokemon['isAlive']}
+  Sprites=${pokemon['sprites']}
+  -------------------------------------------------------------------------
+  Back:${tmp_sprites[2]}
+  Front:${tmp_sprites[1]}
+  """);
 }
